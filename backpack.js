@@ -8,8 +8,8 @@ class Backpack {
     this.color = color;
     this.pocketNum = pocketNum; 
     this.strapLength = {
-      left = strapLengthL,
-      right = strapLengthR
+      left : strapLengthL,
+      right : strapLengthR
     },
     this.lidOpen = false
   }
